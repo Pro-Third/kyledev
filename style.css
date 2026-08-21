@@ -1385,3 +1385,9 @@ body.dark-mode .profile-picture {
     background-color: #000;
 }
 (Initial portfolio website)
+
+.branch-test {
+    border: 2px solid #007bff;
+    border-radius: 10px
+    padding: 10px;
+}
